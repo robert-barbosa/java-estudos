@@ -16,9 +16,9 @@ public class Main {
         System.out.print("Digite um número: ");
         int d = sc.nextInt();
 
-        int diferenca = ((a * b)-(c * d));
+        int dif = ((a * b)-(c * d));
 
-        System.out.println("Diferença = " + diferenca);
+        System.out.println("Diferença = " + dif);
 
         sc.close();
     }
